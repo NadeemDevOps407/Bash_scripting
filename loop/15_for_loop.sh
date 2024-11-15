@@ -3,6 +3,7 @@
 for i in {1..15}
 do 
 	echo "number is $i"
+	sleep 3s
 
 done
 
